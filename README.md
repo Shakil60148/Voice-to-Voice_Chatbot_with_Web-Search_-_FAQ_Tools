@@ -136,7 +136,3 @@ If you want to modify the project to use a different speech recognition service,
 - Python 3.8+
 - Internet connection for web search and speech recognition
 - API keys for AssemblyAI and Tavily
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
